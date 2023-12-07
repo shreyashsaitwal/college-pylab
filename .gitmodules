@@ -1,0 +1,3 @@
+[submodule "mini-project"]
+	path = mini-project
+	url = https://github.com/atharvasonawane/stock-notifier
