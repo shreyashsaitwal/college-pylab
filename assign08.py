@@ -1,3 +1,5 @@
+# Write a python program for operations on set
+
 colors = {'red', 'blue', 'orange', 'peach'}
 fruits = {'apple', 'banana', 'orange', 'peach'}
 
